@@ -1,4 +1,4 @@
-# Anil Raj Rimal - Personal Portfolio
+# Gorakh Nath Pandey - Personal Portfolio
 
 Welcome to the repository for Anil Raj Rimal's personal portfolio website. This repository contains the HTML and CSS code that powers Anil's personal webpage, providing a platform for sharing his skills, contact information, and more.
 
